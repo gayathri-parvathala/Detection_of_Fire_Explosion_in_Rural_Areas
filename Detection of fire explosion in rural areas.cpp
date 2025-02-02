@@ -2,7 +2,7 @@
  
 const int flameSensorPin = 2;    
 const int buzzerPin = 9;         
-const char phoneNumber[] = "+919391029295";  
+const char phoneNumber[] = "+91abcdefghij";  
  
 
 SoftwareSerial sim900(11, 10);     
